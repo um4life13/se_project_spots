@@ -33,6 +33,7 @@
 
 .card__like-btn:hover {
   opacity: 100%;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 627px) {
@@ -44,5 +45,5 @@
 
   .card__title {
   font-size: 16px;
-  margin: 12px 0 22px;
+  margin: 12px 0 0;
 }
